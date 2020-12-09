@@ -7,6 +7,10 @@ The file `bot.py` once activated, automatically opens up Instagram and logs in t
 Then it automatically scans through your entire list of followers and compares them to the list of people you are following.
 The list later displays the usernames that do not follow you.
 
+### Requirements:
+- Python
+- Chromedriver
+
 ### Next on the agenda:
 Creating a system that would automatically remove all those that don't follow you, but you follow them. Getting rid of sneks has never been this easy! :smile:
 
