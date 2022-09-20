@@ -1,4 +1,4 @@
-# Insta_bot
+# Instagram_bot
 A normal Instagram bot that gives a detailed list of people whom you follow, and those you don't in a concise list. 
 Works on [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
