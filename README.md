@@ -3,7 +3,7 @@ A normal Instagram bot that gives a detailed list of people whom you follow, and
 Works on [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
 ### How it works:
-The file `bot.py` once activated, automatically opens up Instagram and logs in to your account(for now, from Facebook), and automatically enters your credentials through the `info.py` file.
+The file `insta.py` once activated, automatically opens up Instagram and logs in to your account(for now, from Facebook), and automatically enters your credentials through the `info.py` file.
 Then it automatically scans through your entire list of followers and compares them to the list of people you are following.
 The list later displays the usernames that do not follow you.
 
